@@ -1,0 +1,28 @@
+.Navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin:20px;
+}
+.button{
+   border:500px;
+   border-radius:2px;
+   background-color:cadetblue;
+}
+.Home{
+  margin: 20px;
+
+}
+.About{
+  margin:20px;
+}
+.Architecture{
+  margin:20px;
+  align-items: center;
+}
+.Contact{
+  margin:20px;
+}
+.Problem{
+  margin:20px;
+}
